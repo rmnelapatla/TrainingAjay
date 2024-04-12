@@ -10,6 +10,7 @@ public class Test123 {
         // day2
         int age=29;
         System.out.println(age);
+
     
     }
 }
